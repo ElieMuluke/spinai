@@ -1,5 +1,5 @@
 <div align="center">
-<h1>SpinAI 🤖 (depricated)</h1>
+<h1>SpinAI 🤖 (deprecated)</h1>
 
 A lightweight framework for building AI agents with TypeScript
 
